@@ -1,9 +1,4 @@
 `timescale 1ns / 1ps
-////////////////////////////////////////////////////////////////////////////////
-// Authored by David J. Marion aka FPGA Dude
-// Created on 4/11/2022
-//
-// For use with a system input clock signal of 100MHz
 //
 // Description: This module contains a binary clock, complete with button
 // debouncing circuitry for incrementing hour and minute. This module
